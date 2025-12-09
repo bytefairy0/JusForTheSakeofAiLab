@@ -3,3 +3,7 @@ s = "*"
 for i in range(5):
 	print("*", end='')
 print()
+
+
+# made changes
+print("tada")
